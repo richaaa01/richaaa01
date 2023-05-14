@@ -1,8 +1,7 @@
 <p align="center">
     <img width="200" src="https://github.com/richaaa01/richaaa01/blob/main/bitmoji.webp">
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hallelujah&size=23&pause=1000&color=1CFF92&background=7870FF00&center=true&width=435&lines=Hey!+I'm+Richa+Singh)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hallelujah&size=23&pause=1000&color=1CFF92&background=7870FF00&center=true&width=435&lines=Hey!+I'm+Richa+Singh" alt="Typing SVG" /></a>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
