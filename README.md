@@ -1,4 +1,23 @@
-
+<script src="/assets/js/dist/animate.js"></script>
+<script>
+    var animate = new Animate({        
+        target: '[data-animate]',
+        animatedClass: 'js-animated',
+        offset: [0.5, 0.5],
+        delay: 0,
+        remove: true,
+        scrolled: false,
+        reverse: false,
+        onLoad: true,
+        onScroll: true,
+        onResize: false,
+        disableFilter: false,
+        callbackOnInit: function() {},
+        callbackOnInView: function(el) {},
+        callbackOnAnimate: function(el) {},
+    });
+    animate.init();
+</script>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hallelujah&size=23&pause=1000&color=1CFF92&background=7870FF00&center=true&width=435&lines=Hey!+I'm+Richa+Singh" alt="Typing SVG" /></a>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
