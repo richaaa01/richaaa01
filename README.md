@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hallelujah&size=23&pause=1000&color=1CFF92&background=7870FF00&center=true&width=435&lines=Hey!+I'm+Richa+Singh)](https://git.io/typing-svg)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hallelujah&size=23&pause=1000&color=1CFF92&background=7870FF00&center=true&width=435&lines=Hey!+I'm+Richa+Singh" alt="Typing SVG" /></a>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
